@@ -65,7 +65,7 @@ class Part3 extends React.Component {
     return (
       <div id="part3">
         <h2>Part 3</h2>
-        <h4> In this section we will.....</h4>
+        <h4> In this section we will......</h4>
       </div>
     );
   }
