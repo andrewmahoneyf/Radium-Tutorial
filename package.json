@@ -1,8 +1,9 @@
 {
-  "name": "radiumTutorial",
+  "name": "radium_tutorial",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "bootstrap": "^3.3.7",
     "react-scripts": "0.7.0"
   },
   "dependencies": {
